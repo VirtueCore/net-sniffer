@@ -8,6 +8,8 @@ Live capture on a user-specified interface.
 
 Human-friendly output: concise packet summaries (timestamp, src → dst, protocol, ports, length).
 
+Capture network traffic and stores into a PCAP file.
+
 
 # Installation
 
